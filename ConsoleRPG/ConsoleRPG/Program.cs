@@ -159,7 +159,7 @@ namespace ConsoleRPG
 
         public int hp, maxHp, mp, maxMp, attack;
         public string name;
-        public string AA;   //Ascii Art
+        public string AA;
         public int command;
         public int target;
     }
